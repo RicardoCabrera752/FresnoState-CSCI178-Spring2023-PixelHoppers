@@ -1,0 +1,2171 @@
+# depslib dependency file v1.0
+1677550648 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1678328642 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1663011196 c:\users\ricardo cabrera\desktop\csci 178\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1679354344 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\checkcollision.cpp
+	"checkCollision.h"
+
+1679354222 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\checkcollision.h
+	<commons.h>
+
+1680135138 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1679529426 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1679529426 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1679529426 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_esoundoutputdrivers.h
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_esoundengineoptions.h
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_estreammodes.h
+
+1679529426 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1679529426 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1679529424 c:\users\ricardo cabrera\desktop\csci 178\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1678329502 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\commons.cpp
+	"commons.h"
+
+1681771164 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\enms.cpp
+	"enms.h"
+
+1681768596 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1678323476 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1678741608 c:\users\ricardo cabrera\desktop\csci 178\common\include\soil.h
+
+1681171774 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1680133640 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1677550648 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\gllight.cpp
+	"GLLight.h"
+
+1677550646 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\gllight.h
+	<GLScene.h>
+
+1681904911 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+
+1677550646 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1679961892 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+
+1678329198 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1681904407 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+
+1679959052 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\sounds.h
+	<commons.h>
+
+1681904100 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\inputs.cpp
+	"Inputs.h"
+
+1678743684 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\model.cpp
+	"Model.h"
+
+1678325720 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\parallax.cpp
+	"parallax.h"
+
+1679962214 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\sounds.cpp
+	"sounds.h"
+
+1681898648 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\test.cpp
+	"test.h"
+
+1681898648 c:\users\ricardo cabrera\desktop\csci 178\player_1\include\test.h
+
+1677550648 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\textureloader.cpp
+	"textureLoader.h"
+
+1681904757 source:c:\users\ricardo cabrera\desktop\csci 178\player_1\src\player.cpp
+	"player.h"
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1663014794 c:\users\exodi\onedrive\desktop\csci 178\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\checkcollision.cpp
+	"checkCollision.h"
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\checkcollision.h
+	<commons.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1679529424 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1679529424 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1679529424 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_esoundoutputdrivers.h
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_esoundengineoptions.h
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_estreammodes.h
+
+1679529424 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1679529424 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1679529423 c:\users\exodi\onedrive\desktop\csci 178\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\commons.cpp
+	"commons.h"
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\enms.cpp
+	"enms.h"
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1681933925 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1678741606 c:\users\exodi\onedrive\desktop\csci 178\common\include\soil.h
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1681933925 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\gllight.cpp
+	"GLLight.h"
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\gllight.h
+	<GLScene.h>
+
+1682118081 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1681943194 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1681947974 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\sounds.h
+	<commons.h>
+
+1682116153 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\inputs.cpp
+	"Inputs.h"
+
+1681933926 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\model.cpp
+	"Model.h"
+
+1681933926 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\parallax.cpp
+	"parallax.h"
+
+1682118008 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\player.cpp
+	"player.h"
+
+1681933926 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\sounds.cpp
+	"sounds.h"
+
+1681933926 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\test.cpp
+	"test.h"
+
+1681933924 c:\users\exodi\onedrive\desktop\csci 178\player_1\include\test.h
+
+1681933926 source:c:\users\exodi\onedrive\desktop\csci 178\player_1\src\textureloader.cpp
+	"textureLoader.h"
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1682334645 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\checkcollision.cpp
+	"checkCollision.h"
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\checkcollision.h
+	<commons.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\commons.cpp
+	"commons.h"
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\enms.cpp
+	"enms.h"
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1681933926 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\gllight.cpp
+	"GLLight.h"
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\gllight.h
+	<GLScene.h>
+
+1682344643 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682340936 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1681947976 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\sounds.h
+	<commons.h>
+
+1682344473 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\inputs.cpp
+	"Inputs.h"
+
+1681933928 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\model.cpp
+	"Model.h"
+
+1681933928 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\parallax.cpp
+	"parallax.h"
+
+1681933928 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\sounds.cpp
+	"sounds.h"
+
+1681933928 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\test.cpp
+	"test.h"
+
+1681933926 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\test.h
+
+1681933928 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\textureloader.cpp
+	"textureLoader.h"
+
+1682332260 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\player.cpp
+	"player.h"
+
+1682342871 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\button.cpp
+	"button.h"
+
+1682342815 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682342974 c:\users\ricardo cabrera\desktop\csci 178\player_menu\include\scenemanager.h
+	<commons.h>
+
+1682343001 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682538642 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1682538774 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1682538559 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682538559 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\scenemanager.h
+	<commons.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1682547759 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\sounds.cpp
+	"sounds.h"
+
+1682547759 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\sounds.h
+	<commons.h>
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\test.cpp
+	"test.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\test.h
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\textureloader.cpp
+	"textureLoader.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1682538367 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\button.cpp
+	"button.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682538367 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\checkcollision.cpp
+	"checkCollision.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\checkcollision.h
+	<commons.h>
+
+1682538367 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\commons.cpp
+	"commons.h"
+
+1683580574 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\enms.cpp
+	"enms.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1682538367 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\gllight.cpp
+	"GLLight.h"
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\gllight.h
+	<GLScene.h>
+
+1683590503 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\inputs.cpp
+	"Inputs.h"
+
+1683580632 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\model.cpp
+	"Model.h"
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\parallax.cpp
+	"parallax.h"
+
+1682547549 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\player.cpp
+	"player.h"
+
+1683589841 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+
+1682419250 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\button.cpp
+	"button.h"
+
+1682418598 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1682366076 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\checkcollision.cpp
+	"checkCollision.h"
+
+1682366076 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\checkcollision.h
+	<commons.h>
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\commons.cpp
+	"commons.h"
+
+1682377096 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\enms.cpp
+	"enms.h"
+
+1682376008 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1682418598 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\scenemanager.h
+	<commons.h>
+
+1682460379 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1682460345 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\gllight.cpp
+	"GLLight.h"
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\gllight.h
+	<GLScene.h>
+
+1682461398 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682419190 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1682386254 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\sounds.h
+	<commons.h>
+
+1682462251 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\inputs.cpp
+	"Inputs.h"
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\model.cpp
+	"Model.h"
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\parallax.cpp
+	"parallax.h"
+
+1682387960 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\player.cpp
+	"player.h"
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\sounds.cpp
+	"sounds.h"
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\test.cpp
+	"test.h"
+
+1682366078 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\include\test.h
+
+1682366078 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v2\src\textureloader.cpp
+	"textureLoader.h"
+
+1682462904 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\button.cpp
+	"button.h"
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\checkcollision.cpp
+	"checkCollision.h"
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\checkcollision.h
+	<commons.h>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\commons.cpp
+	"commons.h"
+
+1682477157 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\enms.cpp
+	"enms.h"
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1682464223 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\scenemanager.h
+	<commons.h>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\gllight.cpp
+	"GLLight.h"
+
+1682462903 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\gllight.h
+	<GLScene.h>
+
+1682476292 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\sounds.h
+	<commons.h>
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\model.cpp
+	"Model.h"
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\parallax.cpp
+	"parallax.h"
+
+1682477664 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\player.cpp
+	"player.h"
+
+1682464526 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\sounds.cpp
+	"sounds.h"
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\test.cpp
+	"test.h"
+
+1682462904 c:\users\exodi\onedrive\desktop\csci 178\menu_test\include\test.h
+
+1682462905 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\textureloader.cpp
+	"textureLoader.h"
+
+1682473853 source:c:\users\exodi\onedrive\desktop\csci 178\menu_test\src\inputs.cpp
+	"Inputs.h"
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1682462904 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+
+1682507004 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\button.cpp
+	"button.h"
+
+1682506938 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682462906 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1682508634 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\checkcollision.cpp
+	"checkCollision.h"
+
+1682462904 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\checkcollision.h
+	<commons.h>
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\commons.cpp
+	"commons.h"
+
+1682517912 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\enms.cpp
+	"enms.h"
+
+1682517798 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1682490462 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\scenemanager.h
+	<commons.h>
+
+1682509755 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1682509544 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\gllight.cpp
+	"GLLight.h"
+
+1682462904 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\gllight.h
+	<GLScene.h>
+
+1682519785 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+
+1682462906 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682514659 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1682462906 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1682518590 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1682462906 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\sounds.h
+	<commons.h>
+
+1682519859 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\inputs.cpp
+	"Inputs.h"
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\model.cpp
+	"Model.h"
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\parallax.cpp
+	"parallax.h"
+
+1682518663 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\player.cpp
+	"player.h"
+
+1682490462 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\sounds.cpp
+	"sounds.h"
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\test.cpp
+	"test.h"
+
+1682462906 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\test.h
+
+1682462906 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\textureloader.cpp
+	"textureLoader.h"
+
+1682515331 source:c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\src\projectile.cpp
+	"projectile.h"
+
+1682515290 c:\users\ricardo cabrera\desktop\csci 178\player_menu_v3\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1682538366 c:\users\exodi\onedrive\desktop\csci 178\player_menu\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1682538368 source:c:\users\exodi\onedrive\desktop\csci 178\player_menu\src\projectile.cpp
+	"projectile.h"
+
+1683733092 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1683733923 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+
+1682538368 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\button.cpp
+	"button.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1682538368 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\checkcollision.cpp
+	"checkCollision.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\checkcollision.h
+	<commons.h>
+
+1682538368 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\commons.cpp
+	"commons.h"
+
+1683731692 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\enms.cpp
+	"enms.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1682538560 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\scenemanager.h
+	<commons.h>
+
+1682538368 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\gllight.cpp
+	"GLLight.h"
+
+1683733902 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\model.cpp
+	"Model.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\parallax.cpp
+	"parallax.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\projectile.cpp
+	"projectile.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1682538560 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\scenemanager.cpp
+	"sceneManager.h"
+
+1682547760 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\sounds.cpp
+	"sounds.h"
+
+1682547760 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\sounds.h
+	<commons.h>
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\test.cpp
+	"test.h"
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\test.h
+
+1682538370 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\textureloader.cpp
+	"textureLoader.h"
+
+1683733804 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\glscene.cpp
+	"GLScene.h"
+
+1683730931 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1682538368 c:\users\ricardo cabrera\desktop\csci 178\game_v2\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1683730962 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\inputs.cpp
+	"Inputs.h"
+
+1683731898 source:c:\users\ricardo cabrera\desktop\csci 178\game_v2\src\player.cpp
+	"player.h"
+
+1683762199 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1683762151 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1683763167 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\sounds.h
+	<commons.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\scenemanager.h
+	<commons.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\checkcollision.h
+	<commons.h>
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\button.cpp
+	"button.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\checkcollision.cpp
+	"checkCollision.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\commons.cpp
+	"commons.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\enms.cpp
+	"enms.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\gllight.cpp
+	"GLLight.h"
+
+1683762487 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\glscene.cpp
+	"GLScene.h"
+	<memory>
+
+1683764380 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\inputs.cpp
+	"Inputs.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\model.cpp
+	"Model.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\parallax.cpp
+	"parallax.h"
+
+1683764449 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\player.cpp
+	"player.h"
+
+1683761859 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\projectile.cpp
+	"projectile.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\scenemanager.cpp
+	"sceneManager.h"
+
+1683763210 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\sounds.cpp
+	"sounds.h"
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\test.cpp
+	"test.h"
+
+1683748816 c:\users\exodi\onedrive\desktop\csci 178\game_4\include\test.h
+
+1683748818 source:c:\users\exodi\onedrive\desktop\csci 178\game_4\src\textureloader.cpp
+	"textureLoader.h"
+
+1683762200 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1683807473 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+	<scenery.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1683794010 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1683763168 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\sounds.h
+	<commons.h>
+
+1683809605 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\scenemanager.h
+	<commons.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1683795509 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\checkcollision.h
+	<commons.h>
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\button.cpp
+	"button.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\checkcollision.cpp
+	"checkCollision.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\commons.cpp
+	"commons.h"
+
+1683795032 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\enms.cpp
+	"enms.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\gllight.cpp
+	"GLLight.h"
+
+1683813231 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\glscene.cpp
+	"GLScene.h"
+	<memory>
+
+1683812678 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\inputs.cpp
+	"Inputs.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\model.cpp
+	"Model.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\parallax.cpp
+	"parallax.h"
+
+1683808604 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\player.cpp
+	"player.h"
+
+1683785016 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\projectile.cpp
+	"projectile.h"
+
+1683809635 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\scenemanager.cpp
+	"sceneManager.h"
+
+1683763212 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\sounds.cpp
+	"sounds.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\test.cpp
+	"test.h"
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\test.h
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\textureloader.cpp
+	"textureLoader.h"
+
+1683805188 source:c:\users\ricardo cabrera\desktop\csci 178\alpha_game\src\scenery.cpp
+	"scenery.h"
+
+1683805188 c:\users\ricardo cabrera\desktop\csci 178\alpha_game\include\scenery.h
+	<commons.h>
+	<textureLoader.h>
+	<time.h>
+
+1683820409 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1683815813 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+	<scenery.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1683794012 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1683763168 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\sounds.h
+	<commons.h>
+
+1683809606 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\scenemanager.h
+	<commons.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1683819029 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\checkcollision.h
+	<commons.h>
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1683805190 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\scenery.h
+	<commons.h>
+	<textureLoader.h>
+	<time.h>
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\button.cpp
+	"button.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\checkcollision.cpp
+	"checkCollision.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\commons.cpp
+	"commons.h"
+
+1683820067 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\enms.cpp
+	"enms.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\gllight.cpp
+	"GLLight.h"
+
+1683819073 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\glscene.cpp
+	"GLScene.h"
+	<memory>
+
+1683818909 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\inputs.cpp
+	"Inputs.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\model.cpp
+	"Model.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\parallax.cpp
+	"parallax.h"
+
+1683818773 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\player.cpp
+	"player.h"
+
+1683785018 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\projectile.cpp
+	"projectile.h"
+
+1683809636 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\scenemanager.cpp
+	"sceneManager.h"
+
+1683805190 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\scenery.cpp
+	"scenery.h"
+
+1683763212 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\sounds.cpp
+	"sounds.h"
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\test.cpp
+	"test.h"
+
+1683748818 c:\users\exodi\onedrive\desktop\csci 178\alpha_game\include\test.h
+
+1683748820 source:c:\users\exodi\onedrive\desktop\csci 178\alpha_game\src\textureloader.cpp
+	"textureLoader.h"
+
+1684130234 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1684212926 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+	<scenery.h>
+	<memory>
+	<levelManager.h>
+	<collisionManager.h>
+
+1684206755 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1684206755 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1684206755 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+	<levelManager.h>
+	<enms.h>
+
+1684203497 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1684203497 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\sounds.h
+	<commons.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\scenemanager.h
+	<commons.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\checkcollision.h
+	<commons.h>
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1684213120 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\scenery.h
+	<commons.h>
+	<textureLoader.h>
+	<time.h>
+
+1684206755 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\button.cpp
+	"button.h"
+
+1684206755 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\checkcollision.cpp
+	"checkCollision.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\commons.cpp
+	"commons.h"
+
+1684211981 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\enms.cpp
+	"enms.h"
+
+1684139419 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\gllight.cpp
+	"GLLight.h"
+
+1684213976 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\glscene.cpp
+	"GLScene.h"
+
+1684210398 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\inputs.cpp
+	"Inputs.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\model.cpp
+	"Model.h"
+
+1684207801 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\parallax.cpp
+	"parallax.h"
+
+1684207801 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\player.cpp
+	"player.h"
+
+1684207801 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\projectile.cpp
+	"projectile.h"
+
+1684207188 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\scenemanager.cpp
+	"sceneManager.h"
+
+1684213185 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\scenery.cpp
+	"scenery.h"
+
+1684207188 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\sounds.cpp
+	"sounds.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\test.cpp
+	"test.h"
+
+1683748818 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\test.h
+
+1684206902 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\textureloader.cpp
+	"textureLoader.h"
+
+1684206755 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\levelmanager.h
+	<commons.h>
+	<enms.h>
+	<projectile.h>
+
+1684207933 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\levelmanager.cpp
+	"levelManager.h"
+
+1684206755 source:c:\users\ricardo cabrera\desktop\csci 178\beta_game\src\collisionmanager.cpp
+	"collisionManager.h"
+
+1684202978 c:\users\ricardo cabrera\desktop\csci 178\beta_game\include\collisionmanager.h
+	<commons.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<projectile.h>
+	<sceneManager.h>
+	<sounds.h>
+
+1684130236 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\main.cpp
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<GLScene.h>
+
+1684212928 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<iostream>
+	<Model.h>
+	<GLLight.h>
+	<Inputs.h>
+	<parallax.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<sounds.h>
+	<Fonts.h>
+	<button.h>
+	<sceneManager.h>
+	<projectile.h>
+	<scenery.h>
+	<memory>
+	<levelManager.h>
+	<collisionManager.h>
+
+1684206756 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\model.h
+	<windows.h>
+	<GL/glut.h>
+	<textureLoader.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\textureloader.h
+	<iostream>
+	<SOIL.h>
+	<gl/gl.h>
+
+1684206756 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\gllight.h
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
+1684206756 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\inputs.h
+	<windows.h>
+	<Model.h>
+	<parallax.h>
+	<player.h>
+	<sounds.h>
+	<sceneManager.h>
+	<button.h>
+	<projectile.h>
+	<levelManager.h>
+	<enms.h>
+
+1684203498 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\parallax.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<time.h>
+
+1684203498 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\player.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<sounds.h>
+	<sceneManager.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\commons.h
+	<SNDS/irrKlang.h>
+	<iostream>
+	<string.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\sounds.h
+	<commons.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\scenemanager.h
+	<commons.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\button.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\projectile.h
+	<textureLoader.h>
+	<commons.h>
+	<sceneManager.h>
+
+1684206756 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\levelmanager.h
+	<commons.h>
+	<enms.h>
+	<projectile.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\enms.h
+	<GL/gl.h>
+	<textureLoader.h>
+	<commons.h>
+	<time.h>
+	<sceneManager.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\checkcollision.h
+	<commons.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\fonts.h
+	<commons.h>
+	<textureLoader.h>
+
+1684213122 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\scenery.h
+	<commons.h>
+	<textureLoader.h>
+	<time.h>
+
+1684202980 c:\users\ricardo cabrera\desktop\csci 178\a_test\include\collisionmanager.h
+	<commons.h>
+	<player.h>
+	<enms.h>
+	<checkCollision.h>
+	<projectile.h>
+	<sceneManager.h>
+	<sounds.h>
+
+1684206756 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\button.cpp
+	"button.h"
+
+1684206756 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\checkcollision.cpp
+	"checkCollision.h"
+
+1684206756 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\collisionmanager.cpp
+	"collisionManager.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\commons.cpp
+	"commons.h"
+
+1684211982 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\enms.cpp
+	"enms.h"
+
+1684139420 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\fonts.cpp
+	"Fonts.h"
+	<commons.h>
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\gllight.cpp
+	"GLLight.h"
+
+1684213978 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\glscene.cpp
+	"GLScene.h"
+
+1684210400 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\inputs.cpp
+	"Inputs.h"
+
+1684207934 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\levelmanager.cpp
+	"levelManager.h"
+
+1683748820 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\model.cpp
+	"Model.h"
+
+1684207802 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\parallax.cpp
+	"parallax.h"
+
+1684207802 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\player.cpp
+	"player.h"
+
+1684207802 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\projectile.cpp
+	"projectile.h"
+
+1684207190 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\scenemanager.cpp
+	"sceneManager.h"
+
+1684213186 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\scenery.cpp
+	"scenery.h"
+
+1684207190 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\sounds.cpp
+	"sounds.h"
+
+1684206904 source:c:\users\ricardo cabrera\desktop\csci 178\a_test\src\textureloader.cpp
+	"textureLoader.h"
+
